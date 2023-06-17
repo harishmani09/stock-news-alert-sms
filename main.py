@@ -86,8 +86,8 @@ else:
     for article in formatted_list:
         message = client.messages.create(
             body=article,
-            from_='+13613105456',
-            to='+919967597473'
+            from_='',
+            to=''
         )
 """
 TSLA: 🔺2%
